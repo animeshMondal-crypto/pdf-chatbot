@@ -1,8 +1,8 @@
-# Document Chat App
+# PDF Chat App
 
 
 ## Introduction
-The Document Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries.
+The PDF Chat App is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. This app utilizes a language model to generate accurate answers to your queries.
 ## How It Works
 
 The application follows these steps to provide responses to your questions:
